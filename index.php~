@@ -1,2 +1,7 @@
 <?php
+<<<<<<< HEAD
+print 'Welecomrfvffvcx cx';
 
+=======
+echo "welcome";
+>>>>>>> d133f752f77cc1b86c72647e95d80ee02a995ba6
